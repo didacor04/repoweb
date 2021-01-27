@@ -1,0 +1,92 @@
+<center>
+
+<p style="color:#2F329F";>Prem aquí!</p>
+
+</center>
+<body background=>
+
+<center>
+<style type="text/css">
+  .boton_personalizado{
+    text-decoration: none;
+    padding: 7px;
+    font-weight: 400;
+    font-size: 15px;
+    color: #2F329F;
+    background-color: #FF3233;
+    border-radius: 5px;
+    border: 2px solid #FFD733;
+  }
+  .boton_personalizado:hover{
+    color: #1883ba;
+    background-color: #FF3233;
+  }
+</style>
+
+<a class="boton_personalizado" href="https://images.app.goo.gl/PrCYVvDZgxiKbhfu8
+
+
+<style type="text/css">
+  .boton_personalizado{
+    text-decoration: none;
+    padding: 7px;
+    font-weight: 400;
+    font-size: 15px;
+    color: #2F329F;
+    background-color: #FF3233;
+    border-radius: 5px;
+    border: 2px solid #FFD733;
+  }
+  .boton_personalizado:hover{
+    color: #1883ba;
+    background-color: #FF3233;
+  }
+</style>
+
+<a class="boton_personalizado" href="https://images.app.goo.gl/zqyyqJjZeLwKocwy9
+
+
+<style type="text/css">
+  .boton_personalizado{
+    text-decoration: none;
+    padding: 7px;
+    font-weight: 400;
+    font-size: 15px;
+    color: #2F329F;
+    background-color: #FF3233;
+    border-radius: 5px;
+    border: 2px solid #FFD733;
+  }
+  .boton_personalizado:hover{
+    color: #1883ba;
+    background-color: #FF3233;
+  }
+</style>
+
+
+<a class="boton_personalizado" href="https://images.app.goo.gl/PmwrjNkazekgVENVA
+</center>
+</center>
+
+<center>
+
+<head>
+<title>Barça</title>
+<style>
+   body {
+      background:url(imagen1.jpg);
+   }
+</style>
+<script>
+    function cambiar() {
+        document.getElementById('body').style.backgroundImage='url(https://images3.alphacoders.com/746/thumb-1920-746277.png)';
+    }
+</script>
+</head>
+
+<body id="body">
+
+<button onclick="cambiar();">Futbol</button>
+
+</body>
+</center>
