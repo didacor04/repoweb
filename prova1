@@ -18,12 +18,12 @@
     border: 2px solid #FFD733;
   }
   .boton_personalizado:hover{
-    color: #1883ba;
+    color: #FF3233;
     background-color: #FF3233;
   }
 </style>
 
-<a class="boton_personalizado" href="https://images.app.goo.gl/PrCYVvDZgxiKbhfu8
+<a class="boton_personalizado" href="(https://elintra.com.ar/wp-content/uploads/2020/11/Lionel-Messi-5.jpg)
 
 
 <style type="text/css">
@@ -38,12 +38,12 @@
     border: 2px solid #FFD733;
   }
   .boton_personalizado:hover{
-    color: #1883ba;
+    color: #FF3233;
     background-color: #FF3233;
   }
 </style>
 
-<a class="boton_personalizado" href="https://images.app.goo.gl/zqyyqJjZeLwKocwy9
+<a class="boton_personalizado" href="(https://s.libertaddigital.com/2020/10/02/1920/1080/fit/0210-dembele.jpg)
 
 
 <style type="text/css">
@@ -58,13 +58,13 @@
     border: 2px solid #FFD733;
   }
   .boton_personalizado:hover{
-    color: #1883ba;
+    color: #FF3233;
     background-color: #FF3233;
   }
 </style>
 
 
-<a class="boton_personalizado" href="https://images.app.goo.gl/PmwrjNkazekgVENVA
+<a class="boton_personalizado" href="(https://cdn2.mediotiempo.com/uploads/media/2020/05/02/antoine-griezman.jpg)
 </center>
 </center>
 
@@ -79,7 +79,7 @@
 </style>
 <script>
     function cambiar() {
-        document.getElementById('body').style.backgroundImage='url(https://images3.alphacoders.com/746/thumb-1920-746277.png)';
+        document.getElementById('body').style.backgroundImage='url(https://www.fcbarcelona.com/fcbarcelona/photo/2018/06/07/fde8dc92-66b3-48f3-9996-22008151b267/DanHlskWsAADKM0.jpg)';
     }
 </script>
 </head>
